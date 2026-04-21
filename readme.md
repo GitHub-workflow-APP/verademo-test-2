@@ -8,7 +8,7 @@ sccsx
 `/reset` will reset the data in the database with a load of:sdxasx
 
 - users
-- jokes
+- jokesff
 - heckles
   
 `/feed` shows the jokes/heckles that are relevant to the current user.
