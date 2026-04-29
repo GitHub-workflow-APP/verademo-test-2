@@ -5,7 +5,7 @@
 jnhjmh
 ### URLs
 sccsx
-`/reset` will reset the data in the database with a load of:
+`/reset` will reset the data in the  with a load of:
 
 - users
 - jokesff
